@@ -68,4 +68,4 @@ In Stage 1 (Before Calls), the XGBoost model's performance yielded significant r
 In Stage 2 (After Calls), the model predicts a customer will subscribe is correct more than 90% of the time, and saves a lot of human effort
 The different clustering techniques performed yielded 3 different clusters with common variables that are potentially significant to determine the subscription of a client
 
-[Public Tableau:](https://public.tableau.com/app/profile/cesar.corral/vizzes)
+[Tableau Public](https://public.tableau.com/app/profile/cesar.corral/vizzes)
