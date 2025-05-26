@@ -19,6 +19,7 @@ The data comes from direct marketing efforts of a European banking institution. 
 - campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 - y: has the client subscribed to a term deposit? (binary)
 
+## Exploratory Data Analysis
 - The dataset has 40,000 observations and 14 variables
 - There are 5 numerical variables (age, balance, day, duration, and campaign), 5 categorical variables (job, marital, education, contact, and month), and 4 binary variables(default, housing, loan, and y)
 - There are no missing values
